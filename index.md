@@ -1,8 +1,3 @@
 ---
-title: Welcome to Day Check List
+title: Welcome to Wzzz5657 Blog
 ---
-
-# Check List
-1. test1
-2. test2
-3. test3
